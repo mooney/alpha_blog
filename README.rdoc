@@ -1,1 +1,1 @@
-This is the repository for my sample blog app (from the RoR course).
+This is the repository for my sample blog app (from the RoR course)
