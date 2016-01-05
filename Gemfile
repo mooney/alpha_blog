@@ -32,6 +32,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+# Use bootstrap forms
+gem 'bootstrap_form'
+
 group :development, :test do
 
 	# Use sqlite3 as the database for Active Record in development
